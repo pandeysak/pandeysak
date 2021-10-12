@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sakshi kumari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Btech Cse
+- 🌱 I’m currently pursuing Btech Cse
 - 📫 Email address:-pandeysakshi2003@gmail.com
 
 <!---
